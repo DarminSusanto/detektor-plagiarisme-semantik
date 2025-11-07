@@ -13,7 +13,11 @@ MALCOLM MARCANTHONY TAN (221110609)
 ADEN KESUMA (221111805)
 
 
-URL Video Penjelasan : https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221111398_students_mikroskil_ac_id/EXGpPB0HIFpHjvrDwn5QbEUBfNjr9ZlrKnbMDQbQ-sFcDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uIZIaG
+URL Video Penjelasan : 
+Link OneDrive : https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221111398_students_mikroskil_ac_id/EXGpPB0HIFpHjvrDwn5QbEUBfNjr9ZlrKnbMDQbQ-sFcDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uIZIaG
+
+Link Google Drive : https://drive.google.com/file/d/1pBjFEvfejZGD6S0sgUMEeZtj2QiKz1Dc/view?usp=sharing
+
 
 🚀 URL Aplikasi Live
 

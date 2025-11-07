@@ -1,0 +1,61 @@
+==================================
+
+Node.js / React
+
+==================================
+
+Abaikan node_modules DI FOLDER MANAPUN
+
+**/node_modules
+
+Abaikan folder build
+
+**/build
+
+==================================
+
+Python / FastAPI
+
+==================================
+
+Virtual Environments
+
+**/venv/
+**/.venv/
+
+Python cache
+
+**/pycache/
+*.pyc
+
+==================================
+
+Data & Media (Jangan di-push)
+
+==================================
+
+Abaikan semua file .csv
+
+*.csv
+
+Abaikan folder Video
+
+Video/
+*.mp4
+
+==================================
+
+IDE / OS Files
+
+==================================
+
+.vscode/
+.DS_Store
+
+==================================
+
+File Temporary Office
+
+==================================
+
+~$*

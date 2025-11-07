@@ -34,9 +34,11 @@ Data & Media (Jangan di-push)
 
 ==================================
 
-Abaikan semua file .csv
+Abaikan semua file .csv KECUALI yang spesifik
 
 *.csv
+!backend/medium_articles_1.csv
+!backend/medium_articles_2.csv
 
 Abaikan folder Video
 
@@ -57,5 +59,7 @@ IDE / OS Files
 File Temporary Office
 
 ==================================
+
+Abaikan file temporary Word/Excel (~$)
 
 ~$*

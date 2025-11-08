@@ -12,6 +12,8 @@ DARMIN SUSANTO (221111398)
 MALCOLM MARCANTHONY TAN (221110609)
 ADEN KESUMA (221111805)
 
+Link Lengkap di OneDrive (Video dan Kode Project) :
+https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221111398_students_mikroskil_ac_id/EmbqaEA8vxFAvVGaQVyeZz8BO2xLYv1rsERXYkC6Eo8DOg?e=VPTkju
 
 URL Video Penjelasan : 
 Link OneDrive : https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221111398_students_mikroskil_ac_id/EXGpPB0HIFpHjvrDwn5QbEUBfNjr9ZlrKnbMDQbQ-sFcDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uIZIaG
